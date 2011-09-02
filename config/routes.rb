@@ -1,4 +1,8 @@
 FirstApp::Application.routes.draw do
+  get "prova2/action1"
+
+  get "prova2/action2"
+
   get "pages/home"
 
   get "pages/contact"
